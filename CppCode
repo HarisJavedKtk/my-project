@@ -4,5 +4,6 @@ int main()
 {
 cout<<"THIS IS ME HARis javed ktk";
 cout<<"THIS IS ME Amad ";
+cout<<"THIS IS ME Nadir Khan";
 return 0;
 }
